@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UjiBhai
+- 👋 Hi, I’m Uzair Asim !
 - 👀 I’m interested in Python , #C , #C++ , Java , Javascrpt, PHP ,R ,Clojure
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on making Android Apps
